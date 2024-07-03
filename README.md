@@ -1,2 +1,2 @@
-# Object-oriented-programming
-LAB for Object-oriented programming 
+# Object-oriented-programming (OOP)
+LAB for Object-oriented programming (OOP)
